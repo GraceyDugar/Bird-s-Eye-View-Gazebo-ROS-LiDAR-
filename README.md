@@ -1,5 +1,4 @@
 # Dynamic Uncertainty-Aware BEV Occupancy Grid
-MAHE Hackathon 2026 - AI in Mobility - Problem Statement 3
 
 ## Results
 - Traditional IPM IoU: 0.2747
